@@ -4,7 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://vneyney28.github.io/Frontend_Mentor_Solution_Product_Preview_Card_Component_Using_HTML_CSS/
 
 ### Built with
 
