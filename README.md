@@ -1,0 +1,2 @@
+# Frontend_Mentor_Solution_Preview_Card_Component_Using_HTML_CSS
+Solution to Preview-Card-Component challenge on FrontEnd Mentor
